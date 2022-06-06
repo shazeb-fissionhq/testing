@@ -2,3 +2,6 @@ TODO List
 --------------
 1.Eating
 2.Sleeping
+3.Swimming
+4.Playing
+5.Coding
